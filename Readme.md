@@ -30,17 +30,15 @@ Pour utiliser ce projet, vous devez d'abord créer un environnement virtuel et i
    pip install -r requirements.txt
 
 ## 📁 Structure du projet
-``` 
+```
+/Output           # Résultats des modèles et autres sorties
+    └── [Résultats générés ici]
 /Scripts          # Contient tous les scripts du projet
     ├── Modèle (image)  # Scripts liés aux modèles utilisant uniquement des images
     ├── Modèle (texte + image)  # Scripts pour les modèles texte + image
     ├── Modèle (texte)  # Scripts pour les modèles utilisant uniquement du texte
     ├── Preprocessing    # Scripts de prétraitement des données
     └── EDA.ipynb         # Notebook principal pour l'analyse exploratoire des données (EDA)
-
-/Output           # Résultats des modèles et autres sorties
-    └── [Résultats générés ici]
-    
 Presentation.pdf
 Rapport.pdf
 README.md          # Documentation du projet
