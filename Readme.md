@@ -22,7 +22,7 @@ Pour utiliser ce projet, vous devez d'abord créer un environnement virtuel et i
 
 1. Cloner le dépôt sur votre machine :
    ```bash
-   git clone https://github.com/salmabens/rakuten_Multi-modal_Colour_Extraction.git
+   git clone https://github.com/salmabens/Rakuten_Multi-modal_Colour_Extraction.git
    cd rakuten_Multi-modal_Colour_Extraction
 
 2. Installer les dépendances avec pip
